@@ -1,6 +1,6 @@
 # State of New York - Zillow Housing Forecasting
 
-** Author** Kyle Dufrane
+**Author** Kyle Dufrane
 
 ![Housing_Image](Images/house.jpeg)
 
